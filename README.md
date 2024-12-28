@@ -17,7 +17,7 @@ Before running the project, ensure you have the following installed on your mach
 
 Clone the repository to your local machine:
 
-git clone https://github.com/kailoo23/task-management-system.git
+git clone https://github.com/MeRishi07/Task-Manager.git
 
 ### 2. Install Dependencies
 
