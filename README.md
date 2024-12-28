@@ -2,7 +2,7 @@
 
 This is a Spring Boot-based Task Management System. Follow the steps below to set up the project and get it running on your local machine.
 
-![Task Manager] (https://github.com/MeRishi07/Task-Manager/blob/c185e5ebaf8770be6d65d76f95223468efbecd98/task-management-system/multichannel-orders-screenshot.jpg)
+![Multichannel Orders](https://github.com/MeRishi07/Task-Manager/blob/c185e5ebaf8770be6d65d76f95223468efbecd98/task-management-system/multichannel-orders-screenshot.jpg)
 
 ## Prerequisites
 
